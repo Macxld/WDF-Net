@@ -1,2 +1,2 @@
 # WDF-Net
-Code is coming soon
+Our code will be released soon.
